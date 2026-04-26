@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Oshini
 
-🎓 Computer Engineering Student at HAW Hamburg (TI-ETECH)
-💻 Interested in Embedded Systems, C Programming, and Software Development
+🎓 Bsc. Information Engineering Student at HAW Hamburg (TI-ETECH)
+💻 Interested in Embedded Systems, Programming, Signal Processing and Software Development
 
 ---
 
