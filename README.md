@@ -40,9 +40,9 @@
 
 ## 📫 Contact
 
-* 📧 **Email:** [yourname@email.com](mailto:yourname@email.com)
-* 💼 **LinkedIn:** https://linkedin.com/in/your-profile
-* 💻 **GitHub:** https://github.com/YOUR-USERNAME
+* 📧 **Email:** oshinividj@gmail.com
+* 💼 **LinkedIn:** https://www.linkedin.com/in/oshini-jayaweera/
+* 💻 **GitHub:** https://github.com/oshi187
 
 ---
 
